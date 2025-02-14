@@ -17,9 +17,9 @@ O objetivo é construir uma solução funcional e testável para XXXXXXXXXXXXXX.
 
 ## 👩‍💻 Participantes do Projeto  
 - **Erica Camila Silva Cunha**  
-- **Filipe Brito**  
+- **Filipe Gabriel Tomaz Brito**  
 - **Jenner Patrick Lopes Brasil**  
-- **Wendemara Gomes**
+- **Wendemara Aparecida da Silva Gomes**
 
 ---
 
