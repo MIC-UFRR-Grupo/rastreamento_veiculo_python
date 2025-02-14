@@ -1,7 +1,7 @@
 # MIC014 – Hands-On Basic: Desenvolvimento Orientado a Testes  
 
 ## 📚 Sobre a Disciplina  
-**Disciplina**: MIC014 – Hands-On Basic  
+**Disciplina**: MIC015 – Hands-On Intermediary  
 **Atividade**: Maker Aula XXXXXXXXXXXXXX  
 **Assunto**: Avanço e melhorias no projeto do **NOME PROJETO**
 
@@ -17,7 +17,7 @@ O objetivo é construir uma solução funcional e testável para XXXXXXXXXXXXXX.
 
 ## 👩‍💻 Participantes do Projeto  
 - **Erica Camila Silva Cunha**  
-- **Guilherme Bueno Reinehr**  
+- **Filipe Brito**  
 - **Jenner Patrick Lopes Brasil**  
 - **Wendemara Gomes**
 
