@@ -1,4 +1,4 @@
-# MIC015 – Hands-On Intermediary:   
+# MIC015 – Hands-On Intermediary: Projeto 01
 
 ## 📚 Sobre a Disciplina  
 **Disciplina**: MIC015 – Hands-On Intermediary  
@@ -10,8 +10,8 @@ Este repositório contém a implementação e evolução de um projeto de rastre
 
 ---
 
-## 🏆 Desafio KXXXXXXXXXXXXXX - NOME PROJETO
-O objetivo é construir uma solução funcional e testável para XXXXXXXXXXXXXX.
+## 🏆 Desafio 
+O objetivo é construir uma solução funcional e testável para rastreamento de veículo.
 
 ---
 
