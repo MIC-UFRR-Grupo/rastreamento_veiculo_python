@@ -1,4 +1,4 @@
-# MIC015 – Hands-On Intermediary: Projeto 01
+# MIC015 – Hands-On Intermediary: Projeto 01 - Monitoramento
 
 ## 📚 Sobre a Disciplina  
 **Disciplina**: MIC015 – Hands-On Intermediary  
