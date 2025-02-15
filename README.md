@@ -20,7 +20,7 @@ Este repositório contém a implementação e evolução de um projeto de rastre
 
 |   |   |
 |----------|----------|
-| <img src="https://github.com/MIC-UFRR-Grupo-8/rastreamento_veiculo_python/blob/main/Captura%20de%20tela%202025-02-14%20193040.png" alt="Diagrama" width="360">|<img src="" alt="Foto" width="640"> |
+| <img src="https://github.com/MIC-UFRR-Grupo-8/rastreamento_veiculo_python/blob/main/Esquema%20de%20conex%C3%A3o.png" alt="Diagrama" width="380">|<img src="" alt="Foto" width="620"> |
 
 
 
