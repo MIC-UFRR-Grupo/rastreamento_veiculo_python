@@ -20,7 +20,7 @@ link do esquema: https://wokwi.com/projects/422902830778710017
 
 |   |   |
 |----------|----------|
-| <img src="https://github.com/MIC-UFRR-Grupo-8/rastreamento_veiculo_python/blob/main/Esquema%20de%20conex%C3%A3o%20atualizado.png" alt="Diagrama" width="380">|<img src="" alt="Foto" width="620"> |
+| <img src="https://github.com/MIC-UFRR-Grupo-8/rastreamento_veiculo_python/blob/main/Esquema%20de%20conex%C3%A3o%20atualizado.png" alt="Diagrama" width="380">|<img src="https://github.com/MIC-UFRR-Grupo/rastreamento_veiculo_python/blob/main/foto.jpg" alt="Foto" width="620"> |
 
 
 
